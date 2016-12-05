@@ -1,0 +1,24 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Bungee', cursive;
+}
+
+header {
+	text-align: center;
+	font-size: 45px;
+}
+
+#board {
+	font-size: 34px;
+	border: solid black 2px;
+	border-collapse: collapse;	
+	margin: 50px auto;
+}
+
+#board td {
+	border: solid black 2px;
+	width: 75px;
+	height: 75px;
+	text-align: center;
+	vertical-align: middle;
+}
